@@ -62,7 +62,7 @@
 
 ## 3. 기능 명세서 
 <img src="./assets/기능 흐름도.png" width="700">
-<a href="https://www.notion.so/2a985bcdbd268049a3e5f97a80b1d204" 
+<a href="https://www.notion.so/2c185bcdbd2680f58980e90c0c2721e8" 
    style="display:inline-block;padding:10px 20px;background:#007bff;color:white;border-radius:8px;text-decoration:none;font-weight:bold;">
     기능 명세서 보러가기
 </a>
