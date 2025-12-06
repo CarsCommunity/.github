@@ -71,7 +71,7 @@
 
 ## 4. API 명세서
 
-<a href="https://www.notion.so/1cb85bcdbd2680de96f0d3d09d546766" 
+<a href="https://www.notion.so/API-2c185bcdbd2680c4b520ef4126d6852e" 
    style="display:inline-block;padding:10px 20px;background:#007bff;color:white;border-radius:8px;text-decoration:none;font-weight:bold;">
    API 명세서 보러가기
 </a>
