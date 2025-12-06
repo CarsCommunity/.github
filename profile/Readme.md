@@ -86,9 +86,6 @@
 ## 6. 시스템 아키텍처 
 <img src="./assets/시스템아키텍(어플리케이션).png" width="700">
 
-<img src="./assets/시스템아키텍처(CI , CD).png" width="700">
-
-<img src="./assets/시스템아키텍처(nks).png" width="700">
 
 ---
 
