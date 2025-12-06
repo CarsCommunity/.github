@@ -1,7 +1,7 @@
 <div align="center">
 
 # CarsCommunity  
-### 자동차 커뮤니티 사이트
+### 자동차 커뮤니티 사이트 (현재 리팩토링중)
 
 </div>
 
