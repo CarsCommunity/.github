@@ -94,10 +94,10 @@
 
 ## 7. 팀원 소개
 
-| 이름 | 담당 |
-|------|------|
-| **김현수** | Backend Post, Email, user, jwt , file ,TestCode|
-| **조현우** | Backend Car , Comment, Exception |
+| 이름 | 파트 | 담당 |
+|------|------|------|
+| **김현수** | Backend | Post, Email, User, File , TestCode(단위 테스트)|
+| **조현우** | Backend | Car , Comment, Exception |
 
 ---
 
