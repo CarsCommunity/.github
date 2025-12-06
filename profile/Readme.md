@@ -79,7 +79,7 @@
 ---
 
 ## 5. DB 명세서 
-<img src="./assets/ERD.png" width="700">
+<img src="./assets/ERD.PNG" width="700">
 
 ---
 
