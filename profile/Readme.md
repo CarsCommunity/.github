@@ -107,8 +107,7 @@
 | --------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Backend**           | Java 21, Spring Boot 3.4, Spring MVC, Spring Security, JWT, JPA, Validation, QueryDSL                              |
 | **Database**          | MySQL 8, Redis(Set 기반 좋아요 관리 / 캐싱)                                                                                 |
-| **File / Media**      | MultipartFile, UrlResource(2D/3D 파일 로드), FileProperties 경로 매핑                                                      |
-| **Development Tools** | IntelliJ IDEA, Postman, Git & GitHub , Jenkins , Mook                                                       |
+| **Development Tools** | IntelliJ IDEA, Postman, Git & GitHub , Jenkins , Mook , JUnit                                                       |
 
 
 
