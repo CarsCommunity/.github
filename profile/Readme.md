@@ -11,7 +11,7 @@
 ## 1. 프로젝트 개요
 
 ### 프로젝트명  
-** CarsCommunity— 자동차 커뮤니티 & 튜닝 이미지 관리 플랫폼
+CarsCommunity— 자동차 커뮤니티 & 튜닝 이미지 관리 플랫폼
 
 ### 프로젝트 기간  
 2025년 11월 ~ 2025년 ing
@@ -76,7 +76,14 @@
 - 검색·교류 활성화
   구조화된 튜닝 데이터 기반으로 유저들이 차량 모델별 튜닝 스타일, 파츠 종류, 유사 셋업을 쉽게 검색하고 소통할 수 있도록 한다.
 ---
+
 ## 3. 시연 영상
+
+[유저](./assets/demo-thumbnail.png)](https://youtu.be/영상_ID)
+
+[게시글 / 댓글](./assets/demo-thumbnail.png)](https://youtu.be/영상_ID)
+
+[차량 튜닝 ](./assets/demo-thumbnail.png)](https://youtu.be/영상_ID)
 
 ---
 ## 4. 기능 명세서 
