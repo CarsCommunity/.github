@@ -79,11 +79,11 @@ CarsCommunity— 자동차 커뮤니티 & 튜닝 이미지 관리 플랫폼
 
 ## 3. 시연 영상
 
-(./assets/demo-thumbnail.png)](유저)
+![유저](./assets/유저.mp4)
 
-(./assets/demo-thumbnail.png)](게시글 / 댓글)
+![게시글/댓글](./assets/게시글,댓글.mp4)
 
-(./assets/demo-thumbnail.png)](차량 튜닝)
+![차량튜닝](./assets/차량튜닝.mp4)
 
 ---
 ## 4. 기능 명세서 
