@@ -78,11 +78,11 @@ CarsCommunity— 자동차 커뮤니티 & 튜닝 이미지 관리 플랫폼
 ---
 
 ## 3. 시연 영상
-- 유저
+
 [./assets/유저.mp4](https://github.com/user-attachments/assets/66c69afa-f38b-4cc9-8165-5a82e9753207)
-- 게시글/댓글
+
 [./assets/게시글,댓글.mp4](https://github.com/user-attachments/assets/cfaa3268-5c24-4c02-ab57-02f5741f99fc)
-- 차량 튜닝
+
 [./assets/차량튜닝.mp4](https://github.com/user-attachments/assets/b8c65e09-951a-421a-b610-08096035188e)
 
 ---
